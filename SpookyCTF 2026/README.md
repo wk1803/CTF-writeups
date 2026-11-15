@@ -1,5 +1,6 @@
 # SpookyCTF 2026
 Name: SpookyCTF 2026
+
 Date: 6 November, 5:00 PM – 7 November, 5:00 PM (UTC)
 
 
