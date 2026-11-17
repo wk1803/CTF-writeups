@@ -1,5 +1,7 @@
 Name: Nosocomephobia
 
+Category: OSINT
+
 Difficulty: Easy
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/532c369b-3350-4291-bd4e-ebce39a9e3d4" />
