@@ -23,9 +23,9 @@ I looked for historical sites near Burberg Plateau and found "Harzburg Castle Ru
 
 I've tried both of them in German and in English but they were not the flag
 
-Then I remembered the "Grabpflege" that was written on the tag
+Then I remembered the "Grabpflege" that was written on the tag and there was also a grave hole in the picture
 
-I searched for graveyard near Burberg Plateau and looked through their photos
+So I searched for graveyard near Burberg Plateau and looked through their photos
 
 Lastly I found the most identical one and the flag was:
 >spooky{Friedhof_Bad_Harzburg}
